@@ -119,7 +119,7 @@ Agora que você já sabe ler do teclado e escrever na tela, faça o seu programa
 
 ### Existem outras instruções possíveis
 
-Até agora você só utilizou a instrução aritmética de soma. Existem outras instruções que você pode utilizar para operar sobre os dois números que vocẽ leu do teclado. A tabela abaixo lista algumas das instruções do processador que você pode experimentar agora. Todas elas utilizam o mesmo formato de 3 registradores já visto na instrução **add**. O resultado da operação é sempre guardado no primeiro registrador e a operação é executada entre os dois últimos registradores.
+Até agora você só utilizou a instrução aritmética de soma. Existem outras instruções que você pode utilizar para operar sobre os dois números que você leu do teclado. A tabela abaixo lista algumas das instruções do processador que você pode experimentar agora. Todas elas utilizam o mesmo formato de 3 registradores já visto na instrução **add**. O resultado da operação é sempre guardado no primeiro registrador e a operação é executada entre os dois últimos registradores.
 
 | Instrução | Funcionalidade                              |
 | --------- | ------------------------------------------- |
