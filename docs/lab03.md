@@ -59,7 +59,7 @@ Você aprendeu sobre números binários e agora precisa encontrar uma forma de f
 Você também já sabe como testar um bit específico de um número utilizando a instrução AND. Então, você pode fazer a conversão de um número de decimal para binário utilizando a instrução AND e a instrução de deslocamento.
 
 !!! note "Atividade 6"
-    Faça um programa que leia um número do teclado e imprima o número em binário. Para isso, utilize as instruções AND e de deslocamento de bits. Como os números do seu processador são de 32 bits, você deve ter um laço for no seu código com 32 interações.
+    Faça um programa que leia um número do teclado e imprima o número em binário. Para isso, utilize as instruções AND e de deslocamento de bits. Como os números do seu processador são de 32 bits, você deve ter um laço for no seu código com 32 iterações.
 
 ## Conclusões
 
